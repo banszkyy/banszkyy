@@ -9,4 +9,4 @@
 
 🔧 **Langauges and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,dotnet,nodejs,unity,vscode,blender)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,dotnet,nodejs,php,html,css,unity,vscode,blender)](#)
