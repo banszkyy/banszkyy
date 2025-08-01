@@ -9,4 +9,8 @@
 
 🔧 **Langauges and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,dotnet,nodejs,php,html,css,unity,vscode,blender)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,dotnet,nodejs,unity,vscode,blender,arch)](#)
+
+☝️ **I used these too:**
+
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,sass,python,laravel,webpack,discordjs,bun,react,electron,firebase,obsidian,visualstudio)](#)
