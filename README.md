@@ -10,7 +10,7 @@
 
 🔧 **Stuff I use:**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,dotnet,nodejs,unity,vscode,blender,arch)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,dotnet,nodejs,unity,vscode,blender,arch,nix)](#)
 
 ☝️ **I used these too:**
 
