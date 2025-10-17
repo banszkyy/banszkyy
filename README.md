@@ -11,8 +11,8 @@
 
 🔧 **Stuff I use:**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,dotnet,nodejs,unity,vscode,blender,arch,nix)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,dotnet,nodejs,unity,vscode,blender,arch)](#)
 
 ☝️ **I used these too:**
 
-[![My Skills](https://skillicons.dev/icons?i=bash,cpp,sass,python,laravel,webpack,discordjs,bun,react,electron,firebase,obsidian,visualstudio)](#)
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,sass,python,laravel,webpack,discordjs,bun,react,electron,firebase,obsidian,visualstudio,nix)](#)
