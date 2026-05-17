@@ -1,6 +1,6 @@
 # Meow
 
-😺 .NET and JavaScript programmer. Loves low-level stuff, cats, C# and reimplementing existing systems.
+😺 .NET and JavaScript programmer. Loves low-level stuff, cats, C# and emergent complexity.
 
 [![Skillset](https://skillicons.dev/icons?i=cs,js,dotnet,arch,vscode,blender)](#)
 
